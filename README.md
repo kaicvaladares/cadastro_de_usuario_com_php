@@ -5,6 +5,7 @@ Instalar composer em sua versão do php
 
 -- Passo a passo
 Rodar os comandos 
+- Adicionar path vendor e node_modules
 - composer install
 - npm install 
 - npm run build(compilar arquivos para prod), npm run dev para modo de desenvolvimento e compilação em tempo real

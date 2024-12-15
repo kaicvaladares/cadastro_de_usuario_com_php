@@ -1,0 +1,15 @@
+// Importar Tailwind base, components e utilities
+@use 'tailwindcss/base';
+@use 'tailwindcss/components';
+@use 'tailwindcss/utilities';
+
+// Importação de páginas
+@use 'pages/forgot.scss';
+@use 'pages/login.scss';
+@use 'pages/register.scss';
+
+// Importação de componentes
+@use 'components/_form.scss';
+
+// css comum a todos
+@use 'main.scss';

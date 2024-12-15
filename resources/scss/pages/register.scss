@@ -1,0 +1,15 @@
+.page.page-register{
+
+    img {
+        height: 125px !important;
+    }
+
+    .message {
+        display: flex;
+        justify-content: space-between;
+
+        a:hover {
+            text-decoration: none;
+        }
+    }
+}

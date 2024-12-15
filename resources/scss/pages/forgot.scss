@@ -1,0 +1,19 @@
+// Código específico para tela de recuperação de senha
+.page.page-forgot{
+
+    .title{
+        text-align: center;
+        padding-top: 14px;
+    }
+
+    .message {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .message a:hover {
+        text-decoration: none;
+    }
+    
+}
+

@@ -1,0 +1,12 @@
+// Código específico para tela de login
+.page.page-login{
+
+    .message {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .message a:hover {
+        text-decoration: none;
+    }
+}
